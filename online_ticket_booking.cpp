@@ -1,4 +1,3 @@
-// BookingSystem.h
 #ifndef BOOKINGSYSTEM_H
 #define BOOKINGSYSTEM_H
 
